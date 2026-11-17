@@ -43,12 +43,15 @@ Saya menggabungkan keahlian teknis jaringan dan sistem dengan kemampuan pengemba
 
 ---
 
-### Github Statistic
-<p align="left">
-<a href="https://github.com/afrizalab4">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=afrizalab4&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=afrizalab4&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=afrizalab4&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=afrizalab4&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=afrizalab4&theme=tokyonight)
+
 </p>
 ---
 
