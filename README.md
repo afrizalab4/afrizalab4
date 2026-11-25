@@ -1,22 +1,20 @@
 # Halo, Saya Afrizal 👋
 
 <p align="center">
-  <em>Full Stack Developer | Educator | IT & Network Enthusiast | Defense Technology Graduate Student</em>
+  <em>Full Stack Developer | Educator | IT & Network Enthusiast </em>
 </p>
 
 ---
 
 ## 🚀 Tentang Saya
 
-Selamat datang di profil GitHub saya! Saya adalah seorang **Full Stack Developer** dan pendidik yang memiliki latar belakang kuat di bidang infrastruktur jaringan dan IT. Saat ini, saya sedang memperdalam studi tingkat magister di bidang **Teknologi Persenjataan** di Universitas Pertahanan, serta aktif mengembangkan solusi perangkat lunak modern.
-
-Saya menggabungkan keahlian teknis jaringan dan sistem dengan kemampuan pengembangan web end-to-end, serta memiliki ketertarikan mendalam pada integrasi teknologi dalam dunia pendidikan dan pertahanan.
+Selamat datang di profil GitHub saya! Saya adalah seorang **Full Stack Developer** dan pendidik yang memiliki latar belakang kuat di bidang infrastruktur jaringan dan IT.
+Saya menggabungkan keahlian teknis jaringan dan sistem dengan kemampuan pengembangan web end-to-end, serta memiliki ketertarikan mendalam pada integrasi teknologi dalam dunia pendidikan.
 
 ---
 
 ## 🎓 Latar Belakang Pendidikan
 
-* **Magister (S2) Teknologi Persenjataan** — Universitas Pertahanan *(Sedang Berjalan / 2026)*
 * **Pendidikan Profesi Guru (PPG)** — Universitas Negeri Padang *(2025)*
 * **D4 Teknologi Rekayasa Komputer & Jaringan** — Politeknik Negeri Lhokseumawe *(2019)*
   * *Tugas Akhir:* Penerapan IoT pada penyimpanan buku menggunakan teknologi RFID dan sensor.
